@@ -26,11 +26,8 @@
 		}
 	],
 	"keys": [
-		"applicationName",
 		"applicationId",
 		"deviceType",
-		"userId",
-		"username",
 		"appUpdatePollInterval",
 		"listenPort",
 		"vpnPort",
@@ -38,8 +35,6 @@
 		"vpnEndpoint",
 		"registryEndpoint",
 		"deltaEndpoint",
-		"pubnubSubscribeKey",
-		"pubnubPublishKey",
 		"mixpanelToken",
 		"apiKey",
 		"version",
